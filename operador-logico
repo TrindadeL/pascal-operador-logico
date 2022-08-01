@@ -1,0 +1,10 @@
+algoritmo "Trabalhando com Tipos"
+var
+numero1, numero2, soma, subtracao, multiplicacao : inteiro
+divisao : real
+sucesso : logico
+inicio
+Escreval("N1")
+leia(numero1 > 10
+Escreval(sucesso)
+fimalgoritmo
